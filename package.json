@@ -1,0 +1,30 @@
+{
+  "name": "personal-pt-website",
+  "version": "1.0.0",
+  "description": "Public resume of sorts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jme0330/Personal-PT-Website.git"
+  },
+  "author": "John Elson",
+  "license": "ISC",
+  "engines": {
+    "node": "13.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jme0330/Personal-PT-Website/issues"
+  },
+  "homepage": "https://github.com/jme0330/Personal-PT-Website#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "openssl": "^1.1.0",
+    "request": "^2.88.2"
+  }
+}
